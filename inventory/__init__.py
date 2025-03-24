@@ -1,0 +1,1 @@
+# Placeholder for inventory/__init__.py
